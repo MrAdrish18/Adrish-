@@ -43,12 +43,12 @@ class var(object):
 I'm a group management bot with some useful features.
 You can choose an option below, by clicking a button.
 If you have any bugs or questions on how to use me, 
-have a look at my [Docs](https://szsupunma.gitbook.io/rose-bot/), or head to @szteambots.
+have a look at my Support group [Support](https://t.me/Adrish_Support), or head to @im_Adrish.
 
 **All commands can be used with the following: / **"""
-        #Rose start menu conections(split commands on start)
+        #Adrish start menu conections(split commands on start)
         Connection_text_start = "** Run /connections to view or disconnect from groups!**"
-        #Rose private start message here
+        #Adrish private start message here
         pm_start_text = """
 Hey there {},my name is {}
 An  advanced telegram Group management Bot For helpYou Protect Your Groups & Suit For All Your Needs.feel free to add me to your groups! """
@@ -90,15 +90,15 @@ An  advanced telegram Group management Bot For helpYou Protect Your Groups & Sui
         about_buttons = InlineKeyboardMarkup(
                 [
                         [
-                                InlineKeyboardButton(text="👥Support Group", url="https://t.me/szrosesupport"),
-                                InlineKeyboardButton(text="👤News Channel", url="https://t.me/Theszrosebot")
+                                InlineKeyboardButton(text="👥Support Group", url="https://t.me/Adrish_support"),
+                                InlineKeyboardButton(text="👤News Channel", url="https://t.me/AdrishFederation")
                         ], 
                         [ 
-                                InlineKeyboardButton(text="⚒ Source Code", url="https://github.com/szsupunma/sz-rosebot"),
-                                InlineKeyboardButton(text="📓 Documentation", url="https://szsupunma.gitbook.io/rose-bot")
+                                InlineKeyboardButton(text="⚒ Source Code", url="https://te.legra.ph/file/b6da0a42b0ef916e4ab45.mp4"),
+                                InlineKeyboardButton(text="📓 Documentation", url="https://t.me/im_Adrish")
                         ], 
                         [
-                                InlineKeyboardButton(text="🖥 How To Deploy Me", url="https://youtu.be/ZUvFSU8W7VA")
+                                InlineKeyboardButton(text="🖥 How To Deploy Me", url="https://t.me/AdrishFed")
                         ],
                         [
                                 InlineKeyboardButton("« Back", callback_data='startcq')
@@ -119,8 +119,8 @@ An  advanced telegram Group management Bot For helpYou Protect Your Groups & Sui
                                 InlineKeyboardButton(text="Help Menu ⚒",callback_data="bot_commands")
                         ],
                         [
-                                InlineKeyboardButton(text="Website 💭",url=f"https://szrosebot.ml"),
-                                InlineKeyboardButton(text="News Channel 📢",url=f"https://t.me/szroseupdates")
+                                InlineKeyboardButton(text="Website 💭",url=f"https://adrish.ml"),
+                                InlineKeyboardButton(text="News Channel 📢",url=f"https://t.me/AdrishFederation")
                         ]
                 ]
 )
