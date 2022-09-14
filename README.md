@@ -59,7 +59,7 @@ Getting started protecting and managing your group better with Adrish  Bot is ve
 ## Customize your Adrish Bot - create a clone (Deploy Heroku)
 If you want to make your bot even more unique, you can create a customized rose bot clone with a name and profile photo of your choice.
 
-<img style="width:300px; height: 200px;" href="https://youtu.be/ZUvFSU8W7VA" src="https://telegra.ph/file/cf3a10a7f61f62983d2ca.png" alt="youtube"> 
+<img style="width:300px; height: 200px;" href="https://youtu.be/ZUvFSU8W7VA" src="https://te.legra.ph/file/684ce16e0205f7d9c23f7.jpg" alt="youtube"> 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrAdrish18/Adrish-)
 
@@ -71,7 +71,7 @@ If you want to make your bot even more unique, you can create a customized rose 
  - [Network ](https://t.me/TeamSzRoseBot)
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
-Rose is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+Adrish is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 ## Contributions
 ## Adrish 
